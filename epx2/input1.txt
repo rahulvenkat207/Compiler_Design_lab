@@ -1,0 +1,13 @@
+int main(){
+int a;
+float b;
+int c, d;
+
+if(a >0)
+{
+   int e;
+   e = a+5;
+
+}
+ return 0;
+}
