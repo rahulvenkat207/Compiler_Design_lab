@@ -1,1 +1,10 @@
-
+'x123' is an Identifier
+'variable' is an Identifier
+'3.14' is a Constant
+'42' is a Constant
+'<=' is an Operator
+'==' is an Operator
+'!=' is an Operator
+'+' is an Operator
+'9x' is Unrecognized
+'hello123' is an Identifier
